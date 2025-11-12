@@ -14,7 +14,7 @@ RUN npm install
 ENTRYPOINT [ "npm" ]
 
 #Specify the parameters of executable command
-CMD [ "start" , "dev"]
+CMD [ "start"]
 
 #Specify which port should run
 EXPOSE 5000
