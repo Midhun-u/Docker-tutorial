@@ -13,7 +13,7 @@ It is a tutorial for learning docker containerization. Through this tutorial i c
 * Installation
 
     - git clone https://github.com/Midhun-u/Docker-tutorial.git
-    - Inside Docker-tutorial
+    - cd Docker-tutorial
     - npm install
     - docker build -t node-server ./
     - docker run node-server
